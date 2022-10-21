@@ -1,4 +1,6 @@
 # Qt Creator
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Fqt-creator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Fqt-creator?ref=badge_shield)
+
 
 Qt Creator is a cross-platform IDE for development with the Qt framework.
 
@@ -215,6 +217,9 @@ we thank the authors who made this possible:
   KDEVELOP TEAM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
   AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Fqt-creator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Fqt-creator?ref=badge_large)
 
 ### Open Source tool for generating C++ code that classifies keywords (license MIT)
 
